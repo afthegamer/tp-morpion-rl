@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-""" a relirs exo3 au point 1 """
+""" a relirs exo3 au point 1 et on es dans le groupe ,6 """
 
 from bandit import Bandit
 
